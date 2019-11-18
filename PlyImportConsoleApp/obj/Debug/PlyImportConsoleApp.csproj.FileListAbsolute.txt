@@ -1,0 +1,16 @@
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\PlyImportConsoleApp.exe.config
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\PlyImportConsoleApp.exe
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\PlyImportConsoleApp.pdb
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\FileToVox.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\NDesk.Options.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\nQuant.Core.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\System.Drawing.Common.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\geometry3Sharp.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\fNbt.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\MoreLinq.dll
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\bin\Debug\FileToVox.pdb
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\obj\Debug\PlyImportConsoleApp.csprojAssemblyReference.cache
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\obj\Debug\PlyImportConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\obj\Debug\PlyImportConsoleApp.csproj.CopyComplete
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\obj\Debug\PlyImportConsoleApp.exe
+C:\Users\petra\Downloads\FileToVox-master\FileToVox-master\PlyImportConsoleApp\obj\Debug\PlyImportConsoleApp.pdb

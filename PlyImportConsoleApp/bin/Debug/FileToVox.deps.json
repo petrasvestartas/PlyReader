@@ -1,0 +1,159 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "a2a79ffa58d7d51442082fb3b3bb5b37fe55033c"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "FileToVox/1.0.0": {
+        "dependencies": {
+          "NDesk.Options.Core": "1.2.4",
+          "System.Drawing.Common": "4.5.1",
+          "fNbt": "0.6.4",
+          "geometry3Sharp": "1.0.324",
+          "nQuant": "1.0.3",
+          "MoreLinq": "1.0.11522.0"
+        },
+        "runtime": {
+          "FileToVox.dll": {}
+        }
+      },
+      "fNbt/0.6.4": {
+        "runtime": {
+          "lib/net35-client/fNbt.dll": {
+            "assemblyVersion": "0.6.4.0",
+            "fileVersion": "0.6.4.0"
+          }
+        }
+      },
+      "geometry3Sharp/1.0.324": {
+        "runtime": {
+          "lib/netstandard2.0/geometry3Sharp.dll": {
+            "assemblyVersion": "1.0.324.0",
+            "fileVersion": "1.0.324.0"
+          }
+        }
+      },
+      "Microsoft.Win32.SystemEvents/4.5.0": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Win32.SystemEvents.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.6.26515.6"
+          }
+        }
+      },
+      "NDesk.Options.Core/1.2.4": {
+        "runtime": {
+          "lib/netcoreapp2.1/NDesk.Options.dll": {
+            "assemblyVersion": "1.2.4.0",
+            "fileVersion": "1.2.4.0"
+          }
+        }
+      },
+      "nQuant/1.0.3": {
+        "runtime": {
+          "Lib/net40/nQuant.Core.dll": {
+            "assemblyVersion": "1.0.3.0",
+            "fileVersion": "1.0.3.0"
+          }
+        }
+      },
+      "System.Drawing.Common/4.5.1": {
+        "dependencies": {
+          "Microsoft.Win32.SystemEvents": "4.5.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Drawing.Common.dll": {
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        },
+        "runtimeTargets": {
+          "runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "unix",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          },
+          "runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll": {
+            "rid": "win",
+            "assetType": "runtime",
+            "assemblyVersion": "4.0.0.1",
+            "fileVersion": "4.6.26919.2"
+          }
+        }
+      },
+      "MoreLinq/1.0.11522.0": {
+        "runtime": {
+          "MoreLinq.dll": {
+            "assemblyVersion": "1.0.11522.0",
+            "fileVersion": "1.0.11522.1815"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FileToVox/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "fNbt/0.6.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ApHeYBciy/XixfMdHjknJ4ct4bCrg/rWCOgiI/YyHRp5JMtldEWnQFc23y+S7MOZbL7rG2L+cD8r9P2U1ardqQ==",
+      "path": "fnbt/0.6.4",
+      "hashPath": "fnbt.0.6.4.nupkg.sha512"
+    },
+    "geometry3Sharp/1.0.324": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vdEC1zaX6lV8LI9BvqizplraEJ6zFE98rMM+hDZqVPXMtwDIIY/RpTQQtxe043E9gsSdx0Xyz1TbSqIYQnBPaw==",
+      "path": "geometry3sharp/1.0.324",
+      "hashPath": "geometry3sharp.1.0.324.nupkg.sha512"
+    },
+    "Microsoft.Win32.SystemEvents/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-LuI1oG+24TUj1ZRQQjM5Ew73BKnZE5NZ/7eAdh1o8ST5dPhUnJvIkiIn2re3MwnkRy6ELRnvEbBxHP8uALKhJw==",
+      "path": "microsoft.win32.systemevents/4.5.0",
+      "hashPath": "microsoft.win32.systemevents.4.5.0.nupkg.sha512"
+    },
+    "NDesk.Options.Core/1.2.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AOB2WkDaC8TphCAWkQ6h2GYOpfo3gM1F98EHTjjOJiiLo1phQWKPfv7r2GFzXA86LPevJ5mZufHHnclD4EMrKQ==",
+      "path": "ndesk.options.core/1.2.4",
+      "hashPath": "ndesk.options.core.1.2.4.nupkg.sha512"
+    },
+    "nQuant/1.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mgDYaFlch7m7gEmY2DXl1cULUp4mKd1ysE1a7Vo6H3VM348OCj/y+8nR5LQIpvQoZnSBTVJuO/rwp/I6qkuL4Q==",
+      "path": "nquant/1.0.3",
+      "hashPath": "nquant.1.0.3.nupkg.sha512"
+    },
+    "System.Drawing.Common/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GiyeGi/v4xYDz1vCNFwFvhz9k1XddOG7VD3jxRqzRBCbTHji+s3HxxbxtoymuK4OadEpgotI8zQ5+GEEH9sUEQ==",
+      "path": "system.drawing.common/4.5.1",
+      "hashPath": "system.drawing.common.4.5.1.nupkg.sha512"
+    },
+    "MoreLinq/1.0.11522.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
